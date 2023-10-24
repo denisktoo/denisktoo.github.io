@@ -7,7 +7,7 @@ title: About
 
 Hi, nice to meet you.
 
-## Welcome to Tech Expert Academy
+## Tech Expert Academy Application
 
 ### Why
 
