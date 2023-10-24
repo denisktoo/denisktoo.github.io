@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Machine Learning/Data Science
+title: Welcome
 email: kiprotichdenis95@gmail.com
 author: deni-kip
 
