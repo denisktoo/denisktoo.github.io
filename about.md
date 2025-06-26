@@ -5,7 +5,10 @@ title: About
 
 ## About
 
-I am currently pursuing a Bachelor's degree in mathematics and Computer Science at Jomo Kenyatta University of Agriculture and Technology with major in statistics and this diversity of skills allows for a dynamic and ever-evolving field, where there's always something new to learn and discover. I have always been fascinated by the potential of machine learning to solve complex problems and improve lives.
+I’m a backend developer with a strong foundation in C#, .NET, and Python. I enjoy building scalable APIs and data-driven solutions that solve real-world problems. During my internship at Leizam Ventures, I contributed to full stack projects using ASP.NET, KnockoutJS, and SQL.
+
+I’m passionate about clean architecture, automation, and using tech to improve systems that impact communities. Always learning, always building.
 
 ## Contacts
-https://www.linkedin.com/in/denis-kiprotich-a8a77124a/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-kiprotich-a8a77124a/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kiprotich507)
